@@ -23,5 +23,6 @@
   "homepage": "https://github.com/akscse/liquid-debugger#readme",
   "dependencies": {
     "liquidjs": "^9.11.10"
-  }
+  },
+  "devDependencies": {}
 }
