@@ -1,0 +1,27 @@
+{
+  "name": "liquid-debugger",
+  "version": "1.0.0",
+  "description": "console liquid template output",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akscse/liquid-debugger.git"
+  },
+  "keywords": [
+    "liquid",
+    "template",
+    "debug"
+  ],
+  "author": "akscse",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/akscse/liquid-debugger/issues"
+  },
+  "homepage": "https://github.com/akscse/liquid-debugger#readme",
+  "dependencies": {
+    "liquidjs": "^9.11.10"
+  }
+}
