@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/akscse/liquid-debugger#readme",
   "dependencies": {
-    "liquidjs": "^9.11.10"
+    "liquidjs": "^10.0.0"
   },
   "devDependencies": {}
 }
